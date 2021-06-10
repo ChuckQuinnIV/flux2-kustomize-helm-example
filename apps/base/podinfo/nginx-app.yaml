@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: cquinniv/nginx-demo:v1
+        image: cquinniv/nginx-demo:v2
         ports:
         - containerPort: 80
